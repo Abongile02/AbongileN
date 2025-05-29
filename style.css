@@ -1,0 +1,61 @@
+h1{
+    color: #c71585;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h2{
+    color: royalblue;
+    font-family:cursive;
+    text-align: right;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-weight: 800;
+    text-decoration: line-through;
+}
+
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #6495ed;
+}
+
+
+
+th{
+    font-weight: 800;
+    background-color: #ff00ff;
+    color: #7fffd4;
+}
+
+tr.alt.td{
+    background-color: #ffd700;
+}
+
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: hotpink;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: lime;
+    color: #808000;
+}
